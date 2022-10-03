@@ -1,5 +1,5 @@
 # crud-exercise
-React front-end with create, run, update, delete.
+React front-end with create, read, update, delete.
 
 Backend:
 1. python3 -m venv venv
