@@ -2,9 +2,9 @@
 React front-end with create, run, update, delete.
 
 Backend:
-python3 -m venv venv
-venv\Scripts\activate
-uvicorn main:app --reload
+1. python3 -m venv venv
+2. venv\Scripts\activate
+3. uvicorn main:app --reload
 
 Frontend
-npm start
+1. npm start
